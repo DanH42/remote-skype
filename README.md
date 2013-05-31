@@ -10,10 +10,13 @@ Requirements
 ------------
 
 - Client
+	- A Skype client
 	- [Tornado]
+	- [Skype4Py]
 - Server
 	- [MongoDB]
 	- `npm install express socket.io moment mongolian`
 
 [Tornado]: http://www.tornadoweb.org/
+[Skype4Py]: https://github.com/awahlig/skype4py
 [MongoDB]: http://www.mongodb.org/
